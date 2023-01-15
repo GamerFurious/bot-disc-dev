@@ -1,0 +1,5 @@
+| DANS LE POWERSHELL |
+
+npm install discord.js
+
+node .\index.js
